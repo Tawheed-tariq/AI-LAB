@@ -22,4 +22,4 @@ def BinarySearch(arr, target):
 if __name__ == "__main__":
     arr = [0,1,2,3,4,5,6]
     print(LinearSearch(arr, 4))
-    print(BinarySearch(arr, 3))
+    # print(BinarySearch(arr, 3))

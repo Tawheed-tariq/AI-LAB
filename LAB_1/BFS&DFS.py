@@ -39,5 +39,5 @@ if __name__ == "__main__":
     }
     print("BFS")
     print(BFS(graph, 'A'))
-    print("DFS")
-    print(DFS(graph, 'A'))
+    # print("DFS")
+    # print(DFS(graph, 'A'))
